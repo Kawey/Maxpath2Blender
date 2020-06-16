@@ -6,4 +6,7 @@ Warning! Low quality code but it works in most cases.
 
 how to use:
 Before export to blender
-in 3dMax Scripting>Run Script select this file and open
+
+Select objects
+
+Scripting>Run Script select this file and open
